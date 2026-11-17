@@ -97,6 +97,7 @@ print("Hidden Message:", msg[:-4])
 
 
 4th 
+
 def gcd(a, b):
     while b:
         a, b = b, a % b
@@ -116,3 +117,8 @@ a = int(input("Enter Number: "))
 m = int(input("Enter Modulus: "))
 
 print("Modular Inverse:", inverse(a, m))
+
+
+6th 
+
+
